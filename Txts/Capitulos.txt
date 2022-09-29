@@ -1,0 +1,117 @@
+CAPITULO
+NOME
+BEM VINDO À DUNGEON
+TEXTO
+Um mago e um guerreiro se encontram em frente a uma dungeon. Sua missão é explorar ela e matar o monstro que ali mora Vocês entram e seguem um corredor, e no fim se deparam com duas portas. Por qual porta seguirão? - DIGITE 0 PARA SEGUIR PELA PORTA DA ESQUERDA - DIGITE 1 PARA SEGUIR PELA PORTA DA DIREITA
+PERSONAGEM
+Mago
+VARIAÇÃO DE ENERGIA
+-0
+
+CAPITULO
+NOME
+PORTA DA ESQUERDA
+TEXTO
+Vocês se deparam com uma sala aparentemente vazia, e ao avançar percebem que é uma sala-armadilha. Vocês passam pela sala com cuidado mas acabam caindo numa armadilha mágica que os transforma em estátuas. FINAL 1 - MUSEU DE ESTÁTUAS
+PERSONAGEM
+Mago
+VARIAÇÃO DE ENERGIA
+-10
+
+CAPITULO
+NOME
+PORTA DA DIREITA
+TEXTO
+Vocês se deparam com três goblins guardando alguma espécie de baú. Desejam lutar contra eles? - DIGITE 0 PARA SIM - DIGITE 1 NÃO
+PERSONAGEM
+Guerreiro
+VARIAÇÃO DE ENERGIA
+-0
+
+CAPITULO
+NOME
+UMA PEQUENA LUTA
+TEXTO
+Vocês lutam contra esses goblins e têm acesso ao baú. Ele contém algumas peças de ouro que podem ser vendidas mais tarde. Desejam retornar para a cidade e completar a dungeon depois ou seguir em frente? - DIGITE 0 PARA VOLTAR DEPOIS - DIGITE 1 PARA SEGUIR
+PERSONAGEM
+Guerreiro
+VARIAÇÃO DE ENERGIA
+-2
+
+CAPITULO
+NOME
+SEM TEMPO IRMÃO
+TEXTO
+Vocês passam pelos goblins e seguem para a última porta. Depois dela há uma aranha gigante. Depois de uma luta contra ela vocês têm acesso a espada lendária que ela guardava e finalizam a missão. FINAL 4 - MISSÃO CUMPRIDA
+PERSONAGEM
+Guerreiro
+VARIAÇÃO DE ENERGIA
+-0
+
+CAPITULO
+NOME
+UM DESCANSO
+TEXTO
+Vocês decidem voltar, descansar e voltar com melhores equipamentos. Uma noite na taverna vai restaurar suas energias. - FINAL 2 - UMA NOITE NA TAVERNA
+PERSONAGEM
+Guerreiro
+VARIAÇÃO DE ENERGIA
++10
+
+CAPITULO
+NOME
+OPS
+TEXTO
+Vocês seguem em frente e se deparam com uma aranha gigante. Percebem também que os goblins gastaram muito de sua energia... E agora não têm como lutar contra esse monstro, é ralmente uma pena. FINAL 3 - MALDITOS GOBLINS
+PERSONAGEM
+Guerreiro
+VARIAÇÃO DE ENERGIA
+-10
+
+ESCOLHA
+CAPITULO DE ORIGEM
+BEM VINDO À DUNGEON
+TEXTO
+0
+CAPITULO DE DESTINO
+PORTA DA ESQUERDA
+
+ESCOLHA
+CAPITULO DE ORIGEM
+BEM VINDO À DUNGEON
+TEXTO
+1
+CAPITULO DE DESTINO
+PORTA DA DIREITA
+
+ESCOLHA
+CAPITULO DE ORIGEM
+PORTA DA DIREITA
+TEXTO
+0
+CAPITULO DE DESTINO
+UMA PEQUENA LUTA
+
+ESCOLHA
+CAPITULO DE ORIGEM
+PORTA DA DIREITA
+TEXTO
+1
+CAPITULO DE DESTINO
+SEM TEMPO IRMÃO
+
+ESCOLHA
+CAPITULO DE ORIGEM
+UMA PEQUENA LUTA
+TEXTO
+0
+CAPITULO DE DESTINO
+UM DESCANSO
+
+ESCOLHA
+CAPITULO DE ORIGEM
+UMA PEQUENA LUTA
+TEXTO
+1
+CAPITULO DE DESTINO
+OPS 
